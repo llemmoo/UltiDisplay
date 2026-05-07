@@ -17,7 +17,7 @@ MonoBehaviour:
   m_Subtarget: 0
   m_PlatformId: ad48d16a66894befa4d8181998c3cb09
   m_PlatformBuildProfile:
-    rid: 932442447690596356
+    rid: 932442495860605124
   m_OverrideGlobalSceneList: 0
   m_Scenes: []
   m_HasScriptingDefines: 0
@@ -27,7 +27,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 932442447690596356
+    - rid: 932442495860605124
       type: {class: iOSPlatformSettings, ns: UnityEditor.iOS, asm: UnityEditor.iOS.Extensions}
       data:
         m_Development: 0
